@@ -8,7 +8,7 @@
     "build": "lerna run buand",
     "clean": "lerna run clean",
     "changed": "lerna changed",
-    "publish": "lerna publish --registry=https://npm.pkg.github.com/"
+    "publish": "lerna publish"
   },
   "workspaces": [
     "packages/*"
