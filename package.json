@@ -13,8 +13,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "repository": "https://github.com/jaybriskteq/monorepo-lerna",
   "publishConfig": {
-    "access": "public"
+    "registry": "",
   },
   "author": "",
   "license": "ISC",
