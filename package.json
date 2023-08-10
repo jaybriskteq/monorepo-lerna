@@ -15,7 +15,7 @@
   ],
   "repository": "https://github.com/jaybriskteq/monorepo-lerna",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@jaybriskteq"
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "",
   "license": "ISC",
