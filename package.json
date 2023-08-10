@@ -8,15 +8,12 @@
     "build": "lerna run buand",
     "clean": "lerna run clean",
     "changed": "lerna changed",
-    "publish": "lerna publish"
+    "publish": "lerna publish --registry=https://npm.pkg.github.com/"
 
   },
   "workspaces": [
     "packages/*"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
