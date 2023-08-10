@@ -1,0 +1,23 @@
+{
+  "name": "monorepo-lerna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "lerna run buand",
+    "clean": "lerna run clean",
+    "changed": "lerna changed"
+
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^7.1.5",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
