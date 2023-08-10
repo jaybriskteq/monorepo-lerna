@@ -1,3 +1,3 @@
-export const websiteTitle = (title) => `Website: name ${title}`;
+export const websiteTitle = (title) => `Website: ${title}`;
 
-export const copyright = (year) => `Copyright year (R) ${year}`;
+export const copyright = (year) => `Copyright: (R) ${year}`;
