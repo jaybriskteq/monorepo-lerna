@@ -1,6 +1,6 @@
 {
   "name": "@monorepo-lerna/checkout",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@monorepo-lerna/components": "^2.0.5"
+    "@monorepo-lerna/components": "^2.0.6"
   },
   "keywords": [],
   "author": "",
