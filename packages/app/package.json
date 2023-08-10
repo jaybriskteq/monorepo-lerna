@@ -7,9 +7,6 @@
     "clean": "rm -rf dist",
     "build": "webpack"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
     "@monorepo-lerna/cart": "^2.0.7",
     "@monorepo-lerna/checkout": "^2.0.7",
