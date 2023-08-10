@@ -13,6 +13,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "repository": "https://github.com/jaybriskteq/monorepo-lerna.git",
   "author": "",
   "license": "ISC",
   "dependencies": {
