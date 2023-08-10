@@ -7,13 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "lerna run buand",
     "clean": "lerna run clean",
-    "changed": "lerna changed"
+    "changed": "lerna changed",
+    "publish": "lerna publish --registry=https://npm.pkg.github.com/"
 
   },
   "workspaces": [
     "packages/*"
   ],
-  "repository": "https://github.com/jaybriskteq/monorepo-lerna.git",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
