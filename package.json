@@ -9,7 +9,6 @@
     "clean": "lerna run clean",
     "changed": "lerna changed",
     "publish": "lerna publish --registry=https://npm.pkg.github.com/"
-
   },
   "workspaces": [
     "packages/*"
