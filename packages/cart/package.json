@@ -10,8 +10,11 @@
   "dependencies": {
     "@monorepo-lerna/components": "^2.0.12"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "92c53fb22c7c8975c0df5c2fa8d4f1d24a2894de"
+  "gitHead": "d504616d4520924178f769ea1c23ce118337e5fb"
 }
