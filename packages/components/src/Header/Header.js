@@ -1,4 +1,4 @@
-import { websiteTitle } from "@monorepo-lerna/utils";
+import { websiteTitle } from "@monorepo/utils";
 
 export const Header = () => {
     const headerEl = document.createElement('div');

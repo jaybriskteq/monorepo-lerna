@@ -8,7 +8,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "@monorepo-lerna/components": "^2.0.12"
+    "@monorepo/components": "^2.0.12"
   },
   "publishConfig": {
     "access": "public"
@@ -16,5 +16,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "a7ac4c9e6b8917f5121e4653fda493ff514df341"
+  "gitHead": "99155064921c672fbe1f4f3c7a6d214ac7921d65"
 }

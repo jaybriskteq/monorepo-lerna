@@ -1,6 +1,6 @@
-import { CartPage } from "@monorepo-lerna/cart";
-import { CheckoutPage } from "@monorepo-lerna/checkout";
-import { Header } from "@monorepo-lerna/components";
+import { CartPage } from "@monorepo/cart";
+import { CheckoutPage } from "@monorepo/checkout";
+import { Header } from "@monorepo/components";
 
 const app = document.createElement('div');
 
