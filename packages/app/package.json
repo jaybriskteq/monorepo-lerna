@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo-lerna/app",
+  "name": "@monorepo/app",
   "version": "2.0.12",
   "description": "",
   "main": "src/index.js",
@@ -18,5 +18,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "d504616d4520924178f769ea1c23ce118337e5fb"
+  "gitHead": "a7ac4c9e6b8917f5121e4653fda493ff514df341"
 }
